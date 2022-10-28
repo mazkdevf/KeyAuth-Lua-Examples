@@ -1,5 +1,7 @@
 # KeyAuth-Lua-Examples
 
+- No longer maintained.
+
 ##### Normal Lua example will be when i'm not too busy.
 
 -------------------
